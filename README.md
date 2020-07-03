@@ -21,3 +21,10 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## `Screenshots`
+
+![Screenshot 1](https://github.com/zurez/dcs-frontend/blob/master/screenshots/S0.jpg)
+![Screenshot 2](https://github.com/zurez/dcs-frontend/blob/master/screenshots/S1.jpg)
+![Screenshot 3](https://github.com/zurez/dcs-frontend/blob/master/screenshots/S2.jpg)
+![Screenshot 4](https://github.com/zurez/dcs-frontend/blob/master/screenshots/S3.jpg)
+![Screenshot 5](https://github.com/zurez/dcs-frontend/blob/master/screenshots/S4.jpg)
+![Screenshot 6](https://github.com/zurez/dcs-frontend/blob/master/screenshots/S5.jpg)
